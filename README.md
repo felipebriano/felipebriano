@@ -1,6 +1,6 @@
 - Hi, I’m @felipebriano
 - I’m interested in data science, sports and games
-- I’m currently learning python
+- I’m currently learning Advance Machine Learning
 - To reach me you can write to felipe.briano@gmail.com
 
 
